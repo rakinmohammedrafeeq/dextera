@@ -17,7 +17,7 @@
 
 ## Demo
 
-![Demo](demo.gif) 
+<video src="Demo.mp4" controls title="Dextera Gesture Control"></video>
 
 ---
 
@@ -44,6 +44,7 @@ Dextera/
 ├── requirements.txt          # Lists dependencies (opencv-python, mediapipe, pyautogui)
 ├── LICENSE                   # MIT License for the project
 ├── .gitignore                # Ignores temporary files and virtual environments
+├── demo.mp4                  # Demo video of gesture controls
 ```
 
 ---
