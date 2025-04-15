@@ -19,7 +19,6 @@
 
 [Watch Demo Video](https://github.com/rakinmohammedrafeeq/Dextera/blob/main/Demo.mp4)
 
-
 ---
 
 ## Technologies Used
