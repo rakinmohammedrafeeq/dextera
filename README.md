@@ -51,10 +51,11 @@ Dextera/
 
 ## Requirements
 
-- Python 3.8 or higher (MediaPipe supports up to Python 3.11; see [MediaPipe documentation](https://developers.google.com/mediapipe)
-- opencv-python
-- mediapipe
-- pyautogui
+- Python 3.8 or higher  
+  *(Note: MediaPipe currently supports up to Python 3.11. See the [MediaPipe documentation](https://developers.google.com/mediapipe) for details.)*
+- `opencv-python`
+- `mediapipe`
+- `pyautogui`
 
 These dependencies are listed in `requirements.txt` and can be installed with `pip install -r requirements.txt`.
 
