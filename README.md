@@ -63,7 +63,7 @@ These dependencies are listed in `requirements.txt` and can be installed with `p
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/dextera
+   git clone https://github.com/rakinmohammedrafeeq/Dextera
    cd dextera
    ```
 2. **Install dependencies:**
