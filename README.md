@@ -17,7 +17,7 @@
 
 ## Demo
 
-🎥 [Watch Demo Video](https://github.com/rakinmohammedrafeeq/Dextera/blob/main/media/Demo.mp4)
+[Watch Demo Video](https://github.com/rakinmohammedrafeeq/Dextera/blob/main/Demo.mp4)
 
 ---
 
