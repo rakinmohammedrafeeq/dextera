@@ -17,7 +17,8 @@
 
 ## Demo
 
-<video src="Demo.mp4" controls title="Dextera Gesture Control"></video>
+[Watch Demo Video](https://github.com/rakinmohammedrafeeq/Dextera/blob/main/demo.mp4)
+
 
 ---
 
