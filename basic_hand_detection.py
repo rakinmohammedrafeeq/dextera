@@ -11,7 +11,7 @@ def main():
         print("Error: Unable to access the camera.")
         exit()
 
-    window_width = 900
+    window_width = 600
     window_height = 600
 
     # cv2.namedWindow("Webcam Feed", cv2.WINDOW_NORMAL)
