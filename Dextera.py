@@ -20,7 +20,6 @@ def main():
     detector = handDetector(maxHands=1)
 
     window_width = 1000
-    window_height = 800
 
     cTime=0
     pTime=0
