@@ -17,7 +17,7 @@
 
 ## Demo
 
-> *(Optional: You can add a GIF or YouTube link here to show a demo of Dextera in action)*
+![Demo](demo.gif) 
 
 ---
 
@@ -34,7 +34,7 @@
 ```
 Dextera/
 │
-├── Dextera.py                 # Main application file
+├── Dextera.py                # Main application file
 ├── hand_detector.py          # Handles hand detection using MediaPipe
 ├── gesture_recognition.py    # Contains gesture logic (scroll, drag, etc.)
 ├── basic_hand_detection.py   # Standalone script for simple hand landmark test
