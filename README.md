@@ -44,7 +44,7 @@ Dextera/
 ├── requirements.txt          # Lists dependencies (opencv-python, mediapipe, pyautogui)
 ├── LICENSE                   # MIT License for the project
 ├── .gitignore                # Ignores temporary files and virtual environments
-├── demo.mp4                  # Demo video of gesture controls
+├── Demo.mp4                  # Demo video of gesture controls
 ```
 
 ---
