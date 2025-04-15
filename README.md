@@ -96,10 +96,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Contact
+## Contact  
 
-📧 **Email**: yourname@example.com  
-🔗 **GitHub**: [your-username](https://github.com/your-username)
+For any questions or suggestions, feel free to reach out:  
+📧 **Email:** rakinmohammedrafeeq@gmail.com  
+🔗 **GitHub:** [rakinmohammedrafeeq](https://github.com/rakinmohammedrafeeq)
 
 ---
 
