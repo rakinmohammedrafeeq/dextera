@@ -51,7 +51,7 @@ Dextera/
 
 ## Requirements
 
-- Python 3.8 or higher (MediaPipe supports up to Python 3.11; see [MediaPipe documentation](https://google.github.io/mediapipe/getting_started/python) for details)
+- Python 3.8 or higher (MediaPipe supports up to Python 3.11; see [MediaPipe documentation](https://developers.google.com/mediapipe)
 - opencv-python
 - mediapipe
 - pyautogui
