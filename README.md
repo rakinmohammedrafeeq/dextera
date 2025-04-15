@@ -31,13 +31,19 @@
 ---
 
 ## File Structure
+
+The `Dextera` project is organized for seamless hand gesture recognition:
 ```
 Dextera/
 │
-├── Dextera.py                # Main application file
-├── hand_detector.py          # Handles hand detection using MediaPipe
-├── gesture_recognition.py    # Contains gesture logic (scroll, drag, etc.)
-├── basic_hand_detection.py   # Standalone script for simple hand landmark test
+├── Dextera.py                # Main script for mouse control via hand gestures
+├── hand_detector.py          # Detects hand landmarks using MediaPipe
+├── gesture_recognition.py    # Handles gesture logic for click, drag, and scroll
+├── basic_hand_detection.py   # Tests hand landmark detection independently
+├── README.md                 # Project overview and setup guide
+├── requirements.txt          # Lists dependencies (opencv-python, mediapipe, pyautogui)
+├── LICENSE                   # MIT License for the project
+├── .gitignore                # Ignores temporary files and virtual environments
 ```
 
 ---
