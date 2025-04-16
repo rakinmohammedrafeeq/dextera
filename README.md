@@ -82,12 +82,7 @@ These dependencies are listed in `requirements.txt` and can be installed with `p
 ## How It Works
 
 - **Cursor Movement**  
-  The system cursor is moved based on the index fingertip position using `pyautogui.moveTo()`.
-
-
-The system cursor is moved based on the wrist position (landmark 0) using pyautogui.moveTo(). (This can optionally be changed to use the index finger for more intuitive control.)
-
-
+  The system cursor is moved based on the wrist position using `pyautogui.moveTo()`.
 
 - **Left Click (Thumb + Index)**  
   When the thumb and index fingertip come close together (pinch), a left click is triggered.
