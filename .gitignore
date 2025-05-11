@@ -32,3 +32,6 @@ Thumbs.db
 *.avi
 *.jpg
 *.png
+
+# TOML configuration files (optional, ignore only if not needed)
+*.toml
