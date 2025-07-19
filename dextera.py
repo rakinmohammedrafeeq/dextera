@@ -178,9 +178,9 @@ def main():
         else:
             color = (0, 0, 255)
 
-        cv2.putText(img, str(int(fps)), (10, 70),
-            cv2.FONT_HERSHEY_PLAIN, 3,
-            color, 3 )
+        # cv2.putText(img, str(int(fps)), (10, 70),
+        #     cv2.FONT_HERSHEY_PLAIN, 3,
+        #     color, 3 )
 
         if hasattr(detector, 'detected_hands') and detector.detected_hands.multi_hand_landmarks:
             cv2.putText(img, f"Hands: {len(detector.detected_hands.multi_hand_landmarks)}",

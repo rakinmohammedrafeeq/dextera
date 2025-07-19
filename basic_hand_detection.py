@@ -64,9 +64,9 @@ def main():
         else:
             color = (0, 0, 255)
 
-        cv2.putText(img, str(int(fps)), (10, 70),
-            cv2.FONT_HERSHEY_PLAIN, 3,
-            color, 3 )
+        # cv2.putText(img, str(int(fps)), (10, 70),
+        #     cv2.FONT_HERSHEY_PLAIN, 3,
+        #     color, 3 )
 
         cv2.namedWindow("Webcam Feed", cv2.WINDOW_NORMAL)
         cv2.resizeWindow("Webcam Feed", window_width, window_height)
