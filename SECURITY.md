@@ -17,8 +17,7 @@ If you find a **security vulnerability in Dextera**, such as:
 **DO NOT report it publicly.**
 
 Please contact:
-
-- **Email:** rakinmohammedrafeeq@gmail.com  
+ 
 - **LinkedIn:** [Rakin Mohammed Rafeeq](https://www.linkedin.com/in/rakinmohammedrafeeq)
 
 We will review and address the issue promptly.
