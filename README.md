@@ -17,7 +17,7 @@
 
 ## Demo
 
-[Watch Demo Video](https://github.com/rakinmohammedrafeeq/Dextera/blob/main/Demo.mp4)
+[Watch Demo Video](https://github.com/rakinmohammedrafeeq/Dextera/blob/main/demo.mp4)
 
 ---
 
@@ -36,7 +36,7 @@ The `Dextera` project is organized for seamless hand gesture recognition:
 ```
 Dextera/
 │
-├── Dextera.py                # Main script for mouse control via hand gestures
+├── dextera.py                # Main script for mouse control via hand gestures
 ├── hand_detector.py          # Detects hand landmarks using MediaPipe
 ├── gesture_recognition.py    # Handles gesture logic for click, drag, and scroll
 ├── basic_hand_detection.py   # Tests hand landmark detection independently
@@ -44,7 +44,7 @@ Dextera/
 ├── requirements.txt          # Lists dependencies (opencv-python, mediapipe, pyautogui)
 ├── LICENSE                   # MIT License for the project
 ├── .gitignore                # Ignores temporary files and virtual environments
-└── Demo.mp4                  # Demo video of gesture controls
+└── demo.mp4                  # Demo video of gesture controls
 ```
 
 ---
@@ -74,7 +74,7 @@ These dependencies are listed in `requirements.txt` and can be installed with `p
    ```
 3. **Run the application:**
    ```bash
-   python Dextera.py
+   python dextera.py
    ```
 
 ---
